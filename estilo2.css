@@ -1,0 +1,40 @@
+
+
+*  {   background: grey;
+       padding: 0px;
+       margin: 5px;}
+
+.flex-container {
+	 display: flex;
+     margin-right: 5px;
+     justify-content: space-around;
+} 
+
+
+
+
+.flex-item {
+    background-color: #fff; 
+     color: #000;
+     margin: 5px;
+     height: 120px;
+     width: 120px;
+ 
+ } 
+
+
+
+.orange {
+	background-color: orange;
+     height: 120px;
+     width: 120px;
+     margin: 5px;
+}
+
+.red{
+	 background-color: red;
+     height: 120px;
+     width:  120px;x
+    
+
+
